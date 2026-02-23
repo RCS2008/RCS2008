@@ -1,0 +1,38 @@
+Nome: Rafael Carvalho da Silva
+
+ERP SAP - É um sistema de software completo que tem como objetvio aprimorar as principais operações de uma empresa (financeira, pessoal, produção, estoque, a cadeia de fornecimento e as vendas com os serviços). Oferece uma perspectiva global das operações e informações para decisões mais precisas. Suas funções incluem:
+-A automatização de atividades com o auxílio da AI;
+-Análise de dados;
+-Gestão de compras desde o pedido até a quitação.
+
+Essa organização simplifica a eliminação de divisões entre os diversos setores, aumenta a eficiência e auxilia no cumprimento de normas em diferentes ramos.
+
+
+E-commerce focado em Marketplace (Mercado Livre e Magazine Luiza)
+Ambos oferecem maneiras de comprar e vender produtos online.
+-O Mercado Livre simplifica as transações com pagamentos seguros e entregas variadas, dando aos vendedores de outros países organizar seus negócios globalmente, criar muitos anúncios, cuidar dos pedidos e receber em dólares, além de ajustar os produtos e falar com os clientes automaticamente;
+-O Magazine Luiza une suas lojas físicas e online, vendendo tanto seus produtos quanto os dos outros, permitindo aos vendedores a chance de alcançar mais de 160 mil pessoas, com entregas que misturam lojas físicas e online, e serviços financeiros do "Magalu Pagamentos" para ajudar com dinheiro, empréstimos e contas. 
+
+Os dois sites querem aprimorar e aumentar a variedade de produtos, tornar as coisas mais automático e rápido além de  ajudar os pequenos vendedores a entrar no mundo digital. Focando na América Latina.
+
+CRM - Gestão de Relacionamento com o Cliente centraliza e agiliza e organiza todas as suas interações com clientes atuais e potenciais clientes. Armazena dados de contato, acompanha o progresso das vendas, registra solicitações de suporte e coordena campanhas de marketing em um único lugar. As principais características:
+-A organização de cadastros;
+-Automação de fluxos de trabalho;
+-Produção de estudos para decisões mais eficazes;
+-Monitoramento do ciclo de vendas;
+-Conexão com plataformas de trabalho em que haja equipe e o uso de AI com o intuito de prever cenários.
+
+Fontes:
+
+SAP. O que é ERP? O guia essencial. Disponível em: https://www.sap.com/brazil/products/erp/what-is-erp.html. Acesso em: 23 fev. 2026.
+MJV INNOVATION. Sistema SAP: saiba tudo o que você precisa sobre esse ERP. 2021.
+Disponível em: https://www.mjvinnovation.com/pt-br/blog/sistema-sap. Acesso em: 23 fev. 2026.
+PORTAL ERP. Maior site sobre Software e Gestão. Disponível em: https://portalerp.com/. Acesso em: 23 fev. 2026.
+SEBRAE. Plataforma de Marketplace: Descubra as 7 principais. 2023. Disponível em: https://sebrae.com.br/sites/PortalSebrae/ufs/sp/conteudo_uf/plataforma-de-marketplace-descubra-as-7-principais,97e36ff11e868810VgnVCM1000001b00320aRCRD. Acesso em: 23 fev. 2026.
+TRAY. Melhores Marketplaces para vender: 18 principais [2026]. 2025. Disponível em: https://tray.com.br/escola/melhores-marketplaces-para-vender. Acesso em: 23 fev. 2026.
+NUVEMSHOP. 10 maiores empresas de e-commerce do Brasil [lista 2026]. Disponível em: https://www.nuvemshop.com.br/blog/empresas-de-ecommerce. Acesso em: 23 fev. 2026.
+K12 GROUP. Melhores Top 10 Marketplaces para Vender Online. 2024. Disponível em: https://k12group.com.br/top-10-marketplaces-para-vender-online. Acesso em: 23 fev. 2026.
+SALESFORCE. Salesforce CRM: experimente o CRM nº 1 em IA do mundo. Disponível em: https://www.salesforce.com/br/crm. Acesso em: 23 fev. 2026.
+CAPTERRA. 10 melhores CRM gratuitos para sua empresa. 2024. Disponível em: https://www.capterra.com.br/blog/702/melhores-softwares-crm-gratuitos. Acesso em: 23 fev. 2026.
+PIPEDRIVE. Melhores soluções de CRM: 17 ferramentas para 2025. 2025. Disponível em: https://www.pipedrive.com/pt/blog/solucoes-de-crm-2025. Acesso em: 23 fev. 2026.
+RD STATION. O melhor e mais completo CRM gratuito do Brasil! Disponível em: https://www.rdstation.com/planos/crm/gratuito. Acesso em: 23 fev. 2026.
