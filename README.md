@@ -2,7 +2,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World! 👋</h1></summary>
-    <em>Uma linguagem não faz seu código ser bom — programadores bons fazem seu código ser bom.</em>
+    <em>"The future is now!"</em>
   </ul>
 </div>
 
@@ -12,24 +12,23 @@
 
 Hi, I'm **Rafael** — a Software Engineering student from Brazil 🇧🇷, passionate about turning data into insights and one day building intelligent systems.
 
-- 🎓 Studying **Systems Development** at **ETEC Santa Isabel/SP** since 2024
-- 📊 Currently deepening my knowledge in **Data Science** via [edX](https://www.edx.org/)
-- 🤖 Dream goal: work professionally with **AI and Machine Learning**
-- 🔍 Actively looking for my **first job opportunity**
-- 🌍 Fluent in **Portuguese** and **English**
-- 📚 When I'm not coding: books, manga, comics, movies & games — they all sharpen problem-solving in ways you wouldn't expect!
+- 🎓 Studying **Systems Development** at **ETEC Santa Isabel/SP** since 2024;
+- 🤖 Dream goal: work professionally with **AI, CyberSecurity, Investment, and Machine Learning**;
+- 🔍 Actively looking for my **first job opportunity**;
+- 🌍 Fluent in **Portuguese** and **English** with a **Spanish** knowlodge;
+- 📚 When I'm not coding: I read books, notices, and business; study something that I like; spend time with my family.
 
 ---
 
 ## 🔥 Tech Stack
 
-**Languages**
+**Languages that I know**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![React-Native](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbharmalsystems.com%2Freact-native%2F&ved=0CBYQjRxqFwoTCLD3s5TiyJMDFQAAAAAdAAAAABA8&opi=89978449)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Data & ML**
