@@ -31,13 +31,6 @@ Hi, I'm **Rafael** — a Software Engineering student from Brazil 🇧🇷, pass
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-**Data & ML**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
-
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -56,18 +49,3 @@ Hi, I'm **Rafael** — a Software Engineering student from Brazil 🇧🇷, pass
 | [Interactive Data Visualization](https://github.com/) | Dynamic charts and dashboards |
 | [Data Querying and Analysis](https://github.com/) | SQL + Python data workflows |
 | [Client Registry System](https://github.com/) | Full-stack registry application |
-
----
-
-## 📊 GitHub Stats
-
-![Rafael's Stats](https://github-readme-stats.vercel.app/api?username=profanselmoflorentino&theme=default&show_icons=true&hide_border=true&count_private=false)
-
----
-
-## 📬 Let's Connect
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/broother_ti)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com)
